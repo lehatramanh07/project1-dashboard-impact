@@ -48,4 +48,4 @@ L'analyse croisée a révélé que l'**IRM-01** présente un taux d'erreur globa
 Ce projet démontre l'importance du **Data Storytelling** en milieu hospitalier : ne pas se contenter de chiffres financiers, mais remonter jusqu'à la sécurité du patient.
 
 ---
-*Réalisé par [Tên của bạn] - Juillet 2025*
+*Réalisé par **Lê, H. T. A** - Juillet 2025*
