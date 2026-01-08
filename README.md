@@ -1,6 +1,6 @@
 # 🏥 Analyse de Performance : Équipements d'Imagerie Médicale
 
-![Power BI](https://img.shields.io/badge/Data_Viz-Power_BI-yellow) ![DAX](https://img.shields.io/badge/Analysis-DAX-blue) ![Healthcare](https://img.shields.io/badge/Industry-Healthcare-red)
+![Visualisation](https://img.shields.io/badge/Visualisation-Power_BI-yellow) ![Calcul](https://img.shields.io/badge/Calcul-DAX_Avancé-blue) ![Secteur](https://img.shields.io/badge/Secteur-Imagerie_Médicale-red) ![Expertise](https://img.shields.io/badge/Expertise-Analyse_de_Risque-green)
 
 ## 📌 Présentation du Projet
 Ce projet consiste en une analyse trimestrielle des performances opérationnelles et économiques du parc d'imagerie médicale d'un centre hospitalier. L'objectif est de transformer des données de maintenance et d'utilisation brutes en levier de décision stratégique.
