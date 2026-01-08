@@ -1,0 +1,65 @@
+Date,ID_Equipement,Nom_Equipement,Type_Examen,Protocole_Utilise,Duree_Heures,Nb_Patients,Cout_Maintenance_EUR,Erreur_Positionnement
+01/07/2025,MRI-01,IRM Siemens,IRM Cerveau,Brain w/o Contrast,8,12,0,Non
+02/07/2025,CT-01,CT Philips,CT Abdomen,Abdomen Pelvis,7,10,150,Non
+03/07/2025,MRI-01,IRM Siemens,IRM Cerveau,Stroke Protocol,9,14,0,Oui
+04/07/2025,XRAY-01,Rayons X Mobile,X-ray Thorax,Chest AP/LAT,6,25,0,Non
+07/07/2025,CT-01,CT Philips,CT Thorax,Thorax PE,8,11,0,Oui
+08/07/2025,MRI-02,IRM GE,IRM Rachis,Spine Lumbar,7,9,0,Non
+09/07/2025,MRI-01,IRM Siemens,IRM Cerveau,MS Protocol,8,13,0,Non
+10/07/2025,CT-01,CT Philips,CT Cerveau,Brain Trauma,9,15,0,Non
+11/07/2025,XRAY-01,Rayons X Mobile,X-ray Thorax,Chest AP/LAT,7,30,50,Non
+15/07/2025,MRI-01,IRM Siemens,IRM Cerveau,Stroke Protocol,8,12,0,Oui
+16/07/2025,MRI-02,IRM GE,IRM Cerveau,Brain w/ Contrast,8,11,0,Non
+17/07/2025,CT-01,CT Philips,CT Abdomen,Abdomen Pelvis,6,9,250,Non
+18/07/2025,MRI-01,IRM Siemens,IRM Genou,Knee MSK,9,15,0,Non
+21/07/2025,XRAY-01,Rayons X Mobile,X-ray Thorax,Chest AP/LAT,8,35,0,Non
+22/07/2025,CT-01,CT Philips,CT Thorax,Thorax PE,7,10,0,Non
+23/07/2025,MRI-01,IRM Siemens,IRM Cerveau,Stroke Protocol,8,11,1200,Oui
+24/07/2025,MRI-02,IRM GE,IRM Cerveau,MS Protocol,9,13,0,Non
+25/07/2025,CT-01,CT Philips,CT Cerveau,Brain Trauma,8,12,0,Oui
+28/07/2025,MRI-01,IRM Siemens,IRM Rachis,Spine Cervical,7,10,0,Non
+29/07/2025,XRAY-01,Rayons X Mobile,X-ray Thorax,Chest AP/LAT,7,28,0,Non
+30/07/2025,MRI-02,IRM GE,IRM Genou,Knee MSK,8,12,0,Non
+31/07/2025,CT-01,CT Philips,CT Abdomen,Abdomen Pelvis,6,8,300,Non
+01/08/2025,MRI-01,IRM Siemens,IRM Cerveau,Brain w/o Contrast,9,14,0,Non
+04/08/2025,XRAY-01,Rayons X Mobile,X-ray Thorax,Chest AP/LAT,8,32,0,Non
+05/08/2025,MRI-02,IRM GE,IRM Cerveau,Stroke Protocol,8,12,0,Non
+06/08/2025,CT-01,CT Philips,CT Thorax,Thorax PE,2,3,5000,Non
+07/08/2025,CT-01,CT Philips,CT Thorax,Maintenance,0,0,1500,Non
+08/08/2025,CT-01,CT Philips,CT Thorax,Maintenance,0,0,0,Non
+11/08/2025,MRI-01,IRM Siemens,IRM Cerveau,MS Protocol,8,13,0,Non
+12/08/2025,MRI-02,IRM GE,IRM Rachis,Spine Lumbar,9,11,0,Non
+13/08/2025,XRAY-01,Rayons X Mobile,X-ray Thorax,Chest AP/LAT,6,22,0,Non
+14/08/2025,CT-01,CT Philips,CT Cerveau,Brain Trauma,8,14,180,Non
+18/08/2025,MRI-01,IRM Siemens,IRM Cerveau,Stroke Protocol,9,13,0,Oui
+19/08/2025,MRI-02,IRM GE,IRM Cerveau,Brain w/o Contrast,8,12,0,Non
+20/08/2025,XRAY-01,Rayons X Mobile,X-ray Thorax,Chest AP/LAT,7,29,0,Non
+21/08/2025,CT-01,CT Philips,CT Abdomen,Abdomen Pelvis,7,10,0,Non
+22/08/2025,MRI-01,IRM Siemens,IRM Genou,Knee MSK,8,11,0,Non
+25/08/2025,MRI-02,IRM GE,IRM Cerveau,MS Protocol,9,14,0,Non
+26/08/2025,CT-01,CT Philips,CT Thorax,Thorax PE,8,12,0,Non
+27/08/2025,XRAY-01,Rayons X Mobile,X-ray Thorax,Chest AP/LAT,7,28,0,Non
+28/08/2025,MRI-01,IRM Siemens,IRM Cerveau,Brain w/o Contrast,8,13,0,Non
+29/08/2025,MRI-02,IRM GE,IRM Rachis,Spine Cervical,7,10,0,Non
+01/09/2025,CT-01,CT Philips,CT Abdomen,Abdomen Pelvis,8,12,0,Non
+02/09/2025,MRI-01,IRM Siemens,IRM Cerveau,Stroke Protocol,9,15,0,Oui
+03/09/2025,MRI-02,IRM GE,IRM Cerveau,Cardiac Perf V2,7,8,0,Oui
+04/09/2025,XRAY-01,Rayons X Mobile,X-ray Thorax,Chest AP/LAT,8,33,0,Non
+05/09/2025,CT-01,CT Philips,CT Thorax,Thorax PE,8,11,0,Non
+08/09/2025,MRI-01,IRM Siemens,IRM Genou,Knee MSK,9,14,0,Non
+09/09/2025,MRI-02,IRM GE,IRM Cerveau,Cardiac Perf V2,8,10,0,Oui
+10/09/2025,XRAY-01,Rayons X Mobile,X-ray Thorax,Chest AP/LAT,7,29,0,Non
+11/09/2025,CT-01,CT Philips,CT Cerveau,Brain Trauma,9,16,0,Non
+12/09/2025,MRI-01,IRM Siemens,IRM Cerveau,MS Protocol,8,12,0,Non
+15/09/2025,MRI-02,IRM GE,IRM Cerveau,Cardiac Perf V2,8,11,0,Non
+16/09/2025,CT-01,CT Philips,CT Abdomen,Abdomen Pelvis,7,11,0,Non
+17/09/2025,MRI-01,IRM Siemens,IRM Cerveau,Stroke Protocol,9,14,0,Oui
+18/09/2025,XRAY-01,Rayons X Mobile,X-ray Thorax,Chest AP/LAT,8,31,0,Non
+19/09/2025,MRI-02,IRM GE,IRM Rachis,Spine Lumbar,8,10,0,Non
+22/09/2025,CT-01,CT Philips,CT Thorax,Thorax PE,7,10,0,Non
+23/09/2025,MRI-01,IRM Siemens,IRM Cerveau,Brain w/o Contrast,9,15,0,Non
+24/09/2025,MRI-02,IRM GE,IRM Cerveau,Cardiac Perf V2,8,12,0,Non
+25/09/2025,XRAY-01,Rayons X Mobile,X-ray Thorax,Chest AP/LAT,7,27,0,Non
+26/09/2025,CT-01,CT Philips,CT Cerveau,Brain Trauma,9,15,0,Non
+29/09/2025,MRI-01,IRM Siemens,IRM Genou,Knee MSK,8,12,0,Non
+30/09/2025,MRI-02,IRM GE,IRM Cerveau,MS Protocol,9,14,0,Non
